@@ -59,5 +59,8 @@
 
 ## 🤝 Let’s Connect  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anbumani-v-9136552b1/)  
-<!--[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=About.me&logoColor=white)](https://yourportfolio.com)-->
-📧 anbumani.dsaidev@gmail.com  
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/JNdwMV9R1T/)  
+[![Dev.to](https://img.shields.io/badge/Dev.to-000000?style=flat&logo=dev.to&logoColor=white)](https://dev.to/anbumani_v_477b0a6d5c2f79)  
+
+📧 **Email:** anbumani.dsaidev@gmail.com  
+📱 **Contact:** +91 8610829649  
