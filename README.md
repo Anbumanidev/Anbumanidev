@@ -51,9 +51,9 @@
 
 ## 📊 GitHub Stats  
 <!-- Replace YOUR_USERNAME -->
-![Anbumani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight)  
+![Anbumani's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Anbumanidev&show_icons=true&theme=tokyonight)  
 
-![GitHub Streak](https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight)  
+![GitHub Streak](https://streak-stats.demolab.com?user=Anbumanidev&theme=tokyonight)  
 
 ---
 
